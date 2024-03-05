@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on a Social network for charity, and on my technical blog, I try to document everything my ADHD is interested in.
+- 🌱 I’m currently learning Go, React, and Event-driven systems.
+- 📫 How to reach me: martinsoteloferry.inf3@gmail.com
