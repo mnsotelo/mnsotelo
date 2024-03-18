@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a Social network for charity, and on my technical blog, I try to document everything my ADHD is interested in.
-- 🌱 I’m currently learning Go, React, and Event-driven systems.
+- 🌱 I’m currently learning FastApi & React.
 - 📫 How to reach me: martinsoteloferry.inf3@gmail.com
